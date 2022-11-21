@@ -1,0 +1,2535 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "order": 1,
+    "base_experience": 64,
+    "weight": 69,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/1.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "order": 2,
+    "base_experience": 142,
+    "weight": 130,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/2.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "order": 3,
+    "base_experience": 263,
+    "weight": 1000,
+    "height": 20,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/3.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "order": 5,
+    "base_experience": 62,
+    "weight": 85,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/4.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "order": 6,
+    "base_experience": 142,
+    "weight": 190,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/5.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "order": 7,
+    "base_experience": 267,
+    "weight": 905,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/6.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "order": 10,
+    "base_experience": 63,
+    "weight": 90,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/7.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "order": 11,
+    "base_experience": 142,
+    "weight": 225,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/8.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "order": 12,
+    "base_experience": 265,
+    "weight": 855,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/9.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "order": 14,
+    "base_experience": 39,
+    "weight": 29,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/10.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "order": 15,
+    "base_experience": 72,
+    "weight": 99,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/11.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "order": 16,
+    "base_experience": 198,
+    "weight": 320,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/12.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "order": 17,
+    "base_experience": 39,
+    "weight": 32,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/13.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "order": 18,
+    "base_experience": 72,
+    "weight": 100,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/14.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "order": 19,
+    "base_experience": 178,
+    "weight": 295,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/15.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "order": 21,
+    "base_experience": 50,
+    "weight": 18,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/16.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "order": 22,
+    "base_experience": 122,
+    "weight": 300,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/17.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "order": 23,
+    "base_experience": 216,
+    "weight": 395,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/18.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "order": 25,
+    "base_experience": 51,
+    "weight": 35,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/19.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "order": 27,
+    "base_experience": 145,
+    "weight": 185,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/20.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "spearow",
+    "order": 30,
+    "base_experience": 52,
+    "weight": 20,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/21.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "fearow",
+    "order": 31,
+    "base_experience": 155,
+    "weight": 380,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/22.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "ekans",
+    "order": 32,
+    "base_experience": 58,
+    "weight": 69,
+    "height": 20,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/23.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "arbok",
+    "order": 33,
+    "base_experience": 157,
+    "weight": 650,
+    "height": 35,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/24.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "order": 35,
+    "base_experience": 112,
+    "weight": 60,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/25.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "order": 51,
+    "base_experience": 243,
+    "weight": 300,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/26.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "sandshrew",
+    "order": 53,
+    "base_experience": 60,
+    "weight": 120,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/27.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "sandslash",
+    "order": 55,
+    "base_experience": 158,
+    "weight": 295,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/28.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "nidoran-f",
+    "order": 57,
+    "base_experience": 55,
+    "weight": 70,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/29.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "nidorina",
+    "order": 58,
+    "base_experience": 128,
+    "weight": 200,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/30.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "order": 59,
+    "base_experience": 253,
+    "weight": 600,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/31.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "nidoran-m",
+    "order": 60,
+    "base_experience": 55,
+    "weight": 90,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/32.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "nidorino",
+    "order": 61,
+    "base_experience": 128,
+    "weight": 195,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/33.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "order": 62,
+    "base_experience": 253,
+    "weight": 620,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/34.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "clefairy",
+    "order": 64,
+    "base_experience": 113,
+    "weight": 75,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/35.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "order": 65,
+    "base_experience": 242,
+    "weight": 400,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/36.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "vulpix",
+    "order": 66,
+    "base_experience": 60,
+    "weight": 99,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/37.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "order": 68,
+    "base_experience": 177,
+    "weight": 199,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/38.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "order": 71,
+    "base_experience": 95,
+    "weight": 55,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/39.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "order": 72,
+    "base_experience": 218,
+    "weight": 120,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/40.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "zubat",
+    "order": 73,
+    "base_experience": 49,
+    "weight": 75,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/41.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "golbat",
+    "order": 74,
+    "base_experience": 159,
+    "weight": 550,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/42.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "oddish",
+    "order": 76,
+    "base_experience": 64,
+    "weight": 54,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/43.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "gloom",
+    "order": 77,
+    "base_experience": 138,
+    "weight": 86,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/44.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "order": 78,
+    "base_experience": 245,
+    "weight": 186,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/45.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "paras",
+    "order": 80,
+    "base_experience": 57,
+    "weight": 54,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/46.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "parasect",
+    "order": 81,
+    "base_experience": 142,
+    "weight": 295,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/47.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "venonat",
+    "order": 82,
+    "base_experience": 61,
+    "weight": 300,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/48.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "venomoth",
+    "order": 83,
+    "base_experience": 158,
+    "weight": 125,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/49.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "diglett",
+    "order": 84,
+    "base_experience": 53,
+    "weight": 8,
+    "height": 2,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/50.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "dugtrio",
+    "order": 86,
+    "base_experience": 149,
+    "weight": 333,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/51.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "meowth",
+    "order": 88,
+    "base_experience": 58,
+    "weight": 42,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/52.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "order": 91,
+    "base_experience": 154,
+    "weight": 320,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/53.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "psyduck",
+    "order": 93,
+    "base_experience": 64,
+    "weight": 196,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/54.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "golduck",
+    "order": 94,
+    "base_experience": 175,
+    "weight": 766,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/55.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "mankey",
+    "order": 95,
+    "base_experience": 61,
+    "weight": 280,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/56.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "primeape",
+    "order": 96,
+    "base_experience": 159,
+    "weight": 320,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/57.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "growlithe",
+    "order": 97,
+    "base_experience": 70,
+    "weight": 190,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/58.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "arcanine",
+    "order": 98,
+    "base_experience": 194,
+    "weight": 1550,
+    "height": 19,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/59.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "poliwag",
+    "order": 99,
+    "base_experience": 60,
+    "weight": 124,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/60.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "poliwhirl",
+    "order": 100,
+    "base_experience": 135,
+    "weight": 200,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/61.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "poliwrath",
+    "order": 101,
+    "base_experience": 255,
+    "weight": 540,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/62.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "abra",
+    "order": 103,
+    "base_experience": 62,
+    "weight": 195,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/63.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "kadabra",
+    "order": 104,
+    "base_experience": 140,
+    "weight": 565,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/64.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "order": 105,
+    "base_experience": 250,
+    "weight": 480,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/65.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "machop",
+    "order": 107,
+    "base_experience": 61,
+    "weight": 195,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/66.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "machoke",
+    "order": 108,
+    "base_experience": 142,
+    "weight": 705,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/67.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "order": 109,
+    "base_experience": 253,
+    "weight": 1300,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/68.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "bellsprout",
+    "order": 110,
+    "base_experience": 60,
+    "weight": 40,
+    "height": 7,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/69.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "weepinbell",
+    "order": 111,
+    "base_experience": 137,
+    "weight": 64,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/70.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "victreebel",
+    "order": 112,
+    "base_experience": 221,
+    "weight": 155,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/71.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "tentacool",
+    "order": 113,
+    "base_experience": 67,
+    "weight": 455,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/72.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "tentacruel",
+    "order": 114,
+    "base_experience": 180,
+    "weight": 550,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/73.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "order": 115,
+    "base_experience": 60,
+    "weight": 200,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/74.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "graveler",
+    "order": 117,
+    "base_experience": 137,
+    "weight": 1050,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/75.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "golem",
+    "order": 119,
+    "base_experience": 223,
+    "weight": 3000,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/76.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "ponyta",
+    "order": 121,
+    "base_experience": 82,
+    "weight": 300,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/77.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "rapidash",
+    "order": 123,
+    "base_experience": 175,
+    "weight": 950,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/78.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "slowpoke",
+    "order": 125,
+    "base_experience": 63,
+    "weight": 360,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/79.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "slowbro",
+    "order": 127,
+    "base_experience": 172,
+    "weight": 785,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/80.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "magnemite",
+    "order": 132,
+    "base_experience": 65,
+    "weight": 60,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/81.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      },
+      {
+        "slot": 2,
+        "type_name": "steel"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "magneton",
+    "order": 133,
+    "base_experience": 163,
+    "weight": 600,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/82.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      },
+      {
+        "slot": 2,
+        "type_name": "steel"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "farfetchd",
+    "order": 135,
+    "base_experience": 132,
+    "weight": 150,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/83.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "doduo",
+    "order": 137,
+    "base_experience": 62,
+    "weight": 392,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/84.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "dodrio",
+    "order": 138,
+    "base_experience": 165,
+    "weight": 852,
+    "height": 18,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/85.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "seel",
+    "order": 139,
+    "base_experience": 65,
+    "weight": 900,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/86.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "dewgong",
+    "order": 140,
+    "base_experience": 166,
+    "weight": 1200,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/87.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "ice"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "grimer",
+    "order": 141,
+    "base_experience": 65,
+    "weight": 300,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/88.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "muk",
+    "order": 143,
+    "base_experience": 175,
+    "weight": 300,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/89.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "shellder",
+    "order": 145,
+    "base_experience": 61,
+    "weight": 40,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/90.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "cloyster",
+    "order": 146,
+    "base_experience": 184,
+    "weight": 1325,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/91.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "ice"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "gastly",
+    "order": 147,
+    "base_experience": 62,
+    "weight": 1,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/92.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ghost"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "haunter",
+    "order": 148,
+    "base_experience": 142,
+    "weight": 1,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/93.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ghost"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "order": 149,
+    "base_experience": 250,
+    "weight": 405,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/94.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ghost"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "onix",
+    "order": 151,
+    "base_experience": 77,
+    "weight": 2100,
+    "height": 88,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/95.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "drowzee",
+    "order": 154,
+    "base_experience": 66,
+    "weight": 324,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/96.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "hypno",
+    "order": 155,
+    "base_experience": 169,
+    "weight": 756,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/97.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "krabby",
+    "order": 156,
+    "base_experience": 65,
+    "weight": 65,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/98.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "kingler",
+    "order": 157,
+    "base_experience": 166,
+    "weight": 600,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/99.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "voltorb",
+    "order": 158,
+    "base_experience": 66,
+    "weight": 104,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/100.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "electrode",
+    "order": 159,
+    "base_experience": 172,
+    "weight": 666,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/101.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "exeggcute",
+    "order": 160,
+    "base_experience": 65,
+    "weight": 25,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/102.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "exeggutor",
+    "order": 161,
+    "base_experience": 186,
+    "weight": 1200,
+    "height": 20,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/103.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "cubone",
+    "order": 163,
+    "base_experience": 64,
+    "weight": 65,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/104.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "marowak",
+    "order": 164,
+    "base_experience": 149,
+    "weight": 450,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/105.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "hitmonlee",
+    "order": 168,
+    "base_experience": 159,
+    "weight": 498,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/106.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "hitmonchan",
+    "order": 169,
+    "base_experience": 159,
+    "weight": 502,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/107.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "lickitung",
+    "order": 171,
+    "base_experience": 77,
+    "weight": 655,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/108.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "koffing",
+    "order": 173,
+    "base_experience": 68,
+    "weight": 10,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/109.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "order": 174,
+    "base_experience": 172,
+    "weight": 95,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/110.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "rhyhorn",
+    "order": 176,
+    "base_experience": 69,
+    "weight": 1150,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/111.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      },
+      {
+        "slot": 2,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "rhydon",
+    "order": 177,
+    "base_experience": 170,
+    "weight": 1200,
+    "height": 19,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/112.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      },
+      {
+        "slot": 2,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "chansey",
+    "order": 180,
+    "base_experience": 395,
+    "weight": 346,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/113.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "tangela",
+    "order": 182,
+    "base_experience": 87,
+    "weight": 350,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/114.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "kangaskhan",
+    "order": 184,
+    "base_experience": 172,
+    "weight": 800,
+    "height": 22,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/115.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "horsea",
+    "order": 186,
+    "base_experience": 59,
+    "weight": 80,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/116.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "seadra",
+    "order": 187,
+    "base_experience": 154,
+    "weight": 250,
+    "height": 12,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/117.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "goldeen",
+    "order": 189,
+    "base_experience": 64,
+    "weight": 150,
+    "height": 6,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/118.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "seaking",
+    "order": 190,
+    "base_experience": 158,
+    "weight": 390,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/119.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "staryu",
+    "order": 191,
+    "base_experience": 68,
+    "weight": 345,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/120.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "starmie",
+    "order": 192,
+    "base_experience": 182,
+    "weight": 800,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/121.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "mr-mime",
+    "order": 194,
+    "base_experience": 161,
+    "weight": 545,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/122.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "scyther",
+    "order": 196,
+    "base_experience": 100,
+    "weight": 560,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/123.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "jynx",
+    "order": 200,
+    "base_experience": 159,
+    "weight": 406,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/124.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "electabuzz",
+    "order": 202,
+    "base_experience": 172,
+    "weight": 300,
+    "height": 11,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/125.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "magmar",
+    "order": 205,
+    "base_experience": 173,
+    "weight": 445,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/126.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "pinsir",
+    "order": 207,
+    "base_experience": 175,
+    "weight": 550,
+    "height": 15,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/127.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "tauros",
+    "order": 209,
+    "base_experience": 172,
+    "weight": 884,
+    "height": 14,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/128.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "magikarp",
+    "order": 210,
+    "base_experience": 40,
+    "weight": 100,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/129.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "gyarados",
+    "order": 211,
+    "base_experience": 189,
+    "weight": 2350,
+    "height": 65,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/130.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "order": 213,
+    "base_experience": 187,
+    "weight": 2200,
+    "height": 25,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/131.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "ice"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "ditto",
+    "order": 214,
+    "base_experience": 101,
+    "weight": 40,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/132.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "order": 215,
+    "base_experience": 65,
+    "weight": 65,
+    "height": 3,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/133.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "vaporeon",
+    "order": 217,
+    "base_experience": 184,
+    "weight": 290,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/134.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "jolteon",
+    "order": 218,
+    "base_experience": 184,
+    "weight": 245,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/135.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "flareon",
+    "order": 219,
+    "base_experience": 184,
+    "weight": 250,
+    "height": 9,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/136.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "porygon",
+    "order": 225,
+    "base_experience": 79,
+    "weight": 365,
+    "height": 8,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/137.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "omanyte",
+    "order": 228,
+    "base_experience": 71,
+    "weight": 75,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/138.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "omastar",
+    "order": 229,
+    "base_experience": 173,
+    "weight": 350,
+    "height": 10,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/139.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "kabuto",
+    "order": 230,
+    "base_experience": 71,
+    "weight": 115,
+    "height": 5,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/140.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "kabutops",
+    "order": 231,
+    "base_experience": 173,
+    "weight": 405,
+    "height": 13,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/141.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "aerodactyl",
+    "order": 232,
+    "base_experience": 180,
+    "weight": 590,
+    "height": 18,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/142.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "order": 235,
+    "base_experience": 189,
+    "weight": 4600,
+    "height": 21,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/143.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "articuno",
+    "order": 236,
+    "base_experience": 290,
+    "weight": 554,
+    "height": 17,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/144.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "zapdos",
+    "order": 238,
+    "base_experience": 290,
+    "weight": 526,
+    "height": 16,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/145.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "moltres",
+    "order": 240,
+    "base_experience": 290,
+    "weight": 600,
+    "height": 20,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/146.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "dratini",
+    "order": 242,
+    "base_experience": 60,
+    "weight": 33,
+    "height": 18,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/147.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dragon"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "dragonair",
+    "order": 243,
+    "base_experience": 147,
+    "weight": 165,
+    "height": 40,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/148.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dragon"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "order": 244,
+    "base_experience": 300,
+    "weight": 2100,
+    "height": 22,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/149.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dragon"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "mewtwo",
+    "order": 245,
+    "base_experience": 340,
+    "weight": 1220,
+    "height": 20,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/150.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "mew",
+    "order": 248,
+    "base_experience": 300,
+    "weight": 40,
+    "height": 4,
+    "image": "https://raw.githubusercontent.com/emersonbroga/api.pokedex.react.dev.br/main/public/images/original/151.png",
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  }
+]
